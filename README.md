@@ -22,7 +22,7 @@ Topics:
 
 ### Task 2: MVP
 
-#### Design Files
+#### Design Files------------------------------------------------
 
 Once you are done your application will have two routes:
 
